@@ -3,6 +3,7 @@
 ## 👨‍💻 Candidate Details
 
 **Name:** Armaan Joshi
+
 **Mobile:** 9079157371
 
 ---
